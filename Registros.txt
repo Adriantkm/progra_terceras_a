@@ -1,0 +1,4 @@
+Fecha: 14/09/2021 | Hora de entrada: 21:36:36 | ID: 01 | Nombre: Adrian | 
+Fecha: 14/09/2021 | Hora de entrada: 21:36:43 | ID: 02 | Nombre: Victor | 
+Fecha: 14/09/2021 | Hora de salida: 21:36:57 | ID: 01 | Nombre: Adrian | 
+Fecha: 14/09/2021 | Hora de salida: 21:37:04 | ID: 02 | Nombre: Victor | 
